@@ -1,0 +1,36 @@
+.App {
+  
+  background-color: thistle;
+  display: flex;
+  justify-content: space-around;
+}
+.image {
+  border: 1px solid red;
+  border-color: aliceblue;
+  height: 40px;
+  margin-top: 9px;
+  width: 130px;
+}
+
+.links {
+  border: 1px solid blue transparent;
+  display: flex;
+  height: 40px;
+  width: 350px;
+  justify-content: space-around;
+  padding: 18px 0px 0px 0px;
+  /* margin-top: 20px; */
+}
+
+button {
+  border: 1px solid red;
+  border-color: aliceblue;
+  height: 40px;
+  font-size: 18px;
+  padding: 0px 15px 0px 15px;
+  margin-top: 11px;
+  background-color: skyblue;
+}
+
+
+
